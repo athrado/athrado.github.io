@@ -8,5 +8,5 @@ Thank you!
 
 
 
-![3479940_0](/Users/juliasuter/Documents/GitHub/athrado.github.io/3479940_0.jpg)
+<img src="3479940_0.jpg"  alt="Appa">
 
