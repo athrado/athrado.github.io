@@ -1,4 +1,4 @@
-# athrado GitHub Page
+
 
 Work in progress. 
 
@@ -8,5 +8,5 @@ Thank you!
 
 
 
-<img src="3479940_0.jpg"  alt="Appa">
+
 
