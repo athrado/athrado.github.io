@@ -1,10 +1,10 @@
 
 
-Work in progress. 
+We're currently updating this page. 
 
 Please come back later and check out <a href="https://athrado.github.io/data_viz/" title="Data Viz">my visualisations</a> in the meantime.
 
-Thank you!
+Thank you, and happy coding!
 
 
 
