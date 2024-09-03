@@ -10,6 +10,8 @@ Thank you, and Yip Yip!
 ![](5690275.png)
 
 
+And since you've come this far, a little coder joke:< 
 
+Why do programmers prefer dark mode? Because the light attracts bugs!
 
 
